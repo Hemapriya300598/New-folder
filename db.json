@@ -1,0 +1,83 @@
+{
+  "posts": [
+    {
+      "contact_name": "gfsxdcbgsx",
+      "company_name": "bvc",
+      "payment_terms": "bvc",
+      "currency_id": "bdfxb",
+      "website": "bvcx",
+      "language_code": "",
+      "notes": "",
+      "place_of_contact": "",
+      "gst_no": "",
+      "gst_treatment": "",
+      "tax_exemption_id": "",
+      "address": "bvc",
+      "id": 1
+    },
+    {
+      "contact_name": "HEMA PRAKASH PRAKASH N",
+      "company_name": "HEAVY VEHICLES FACTORY",
+      "payment_terms": "dgf",
+      "currency_id": "bdf",
+      "website": "dfgh",
+      "tax_authority_name": "",
+      "address": "",
+      "language_code": "",
+      "zip": "",
+      "country": "",
+      "fax": "",
+      "phone": "",
+      "id": 2
+    },
+    {
+      "contact_name": "cz",
+      "company_name": "czx",
+      "payment_terms": "czx",
+      "currency_id": "czx",
+      "website": "zxc",
+      "tax_authority_name": "",
+      "address": "",
+      "language_code": "",
+      "zip": "",
+      "country": "",
+      "fax": "",
+      "phone": "",
+      "id": 3
+    },
+    {
+      "contact_name": "HEMA PRAKASH PRAKASH N",
+      "company_name": "HEAVY VEHICLES FACTORY",
+      "payment_terms": "",
+      "currency_id": "",
+      "website": "",
+      "tax_authority_name": "",
+      "address": "",
+      "language_code": "",
+      "zip": "",
+      "country": "",
+      "fax": "",
+      "phone": "",
+      "id": 4
+    },
+    {
+      "contact_name": "HEMA PRAKASH PRAKASH N",
+      "company_name": "HEAVY VEHICLES FACTORY",
+      "payment_terms": "",
+      "currency_id": "",
+      "website": "",
+      "tax_authority_name": "",
+      "address": "",
+      "language_code": "",
+      "zip": "",
+      "country": "",
+      "fax": "",
+      "phone": "",
+      "id": 5
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

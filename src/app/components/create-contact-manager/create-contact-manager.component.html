@@ -1,0 +1,42 @@
+
+<div class="panel panel-primary">
+  <div class="panel-heading">Contact Manager</div>
+ 
+</div>
+<div>
+  <button type="button" class="btn btn-success" routerLink="/Cmform">Create a ContactManager
+ </button> 
+ <button type="button" class="btn btn-primary" routerLink="/list">ContactDetailsList</button>
+
+</div>
+
+<div>
+
+  <h1>Details of Contact Manager</h1>
+</div>
+<div class="table-responsive">
+
+  <table class="table">
+    <th>ContactName</th>
+    <th>CompanyName</th>
+    <th>Website</th>
+    <tbody >
+      <tr class="bg-primary" *ngFor="let row of List"> 
+        <td >{{row.contact_name}}</td> 
+        <td >{{row.company_name}}</td>
+        <td >{{row.website}}</td>
+        <td>
+        
+            <button type="button"(click)="deleteContactDetailsList(row)" class="btn btn-danger">Delete</button>
+        </td>
+      </tr>
+      
+  
+    </tbody>
+   
+  </table>
+
+</div>
+
+
+
